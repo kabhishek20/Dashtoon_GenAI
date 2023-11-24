@@ -1,10 +1,10 @@
 # Dashtoon_GenAI_Assignment
 
-> **Name:** Kumar Abhishek
-> **Institute:** IIT Kanpur
-> **Interests:** Generative-AI, NLP, CV, ML/DL
-
-> **Notebook Link:** [Click Here](https://colab.research.google.com/drive/1vqg6me0YpLqrZvg3vDFuXgm_30fTCzBa?usp=sharing)
+> **Name:** Kumar Abhishek                                                                                                                 
+> **Institute:** IIT Kanpur                                                                                                              
+> **Interests:** Generative-AI, NLP, CV, ML/DL                                                                                   
+ 
+> **Notebook Link:** [Click Here](https://colab.research.google.com/drive/1vqg6me0YpLqrZvg3vDFuXgm_30fTCzBa?usp=sharing)                                                          
 > **Data Source:** [Click Here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FMain_Page)
 
 * **Input** : Two images, one having the base/content and other with artistic style
