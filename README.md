@@ -3,9 +3,8 @@
 * **Name:** Kumar Abhishek
 * **Institute:** IIT Kanpur
 * **Interests:** Generative-AI, NLP, CV, ML/DL
-
-<code>**Notebook link**: [Click Here](https://colab.research.google.com/drive/1vqg6me0YpLqrZvg3vDFuXgm_30fTCzBa?usp=sharing) **Data Source:** [Click Here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FMain_Page)
-</code>
+* **Notebook Link:** [Click Here](https://colab.research.google.com/drive/1vqg6me0YpLqrZvg3vDFuXgm_30fTCzBa?usp=sharing)
+* **Data Source:** [Click Here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FMain_Page)
 
 * **Input** : Two images, one having the base/content and other with artistic style
 * **Output** : A single image with the content of the first one and the style of the second image
@@ -36,3 +35,5 @@
 * *Example 5*
 ![Example_5](image_5.jpg)
 
+<code>**Notebook link**: [Click Here](https://colab.research.google.com/drive/1vqg6me0YpLqrZvg3vDFuXgm_30fTCzBa?usp=sharing) **Data Source:** [Click Here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FMain_Page)
+</code>
