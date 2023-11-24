@@ -1,8 +1,8 @@
 # Dashtoon_GenAI_Assignment
 
-**Name:** Kumar Abhishek
-**Institute:** IIT Kanpur
-**Interests:** Generative-AI, NLP, CV, ML/DL
+* **Name:** Kumar Abhishek
+* **Institute:** IIT Kanpur
+* **Interests:** Generative-AI, NLP, CV, ML/DL
 
 **Data Source:** [Click Here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FMain_Page)
 
